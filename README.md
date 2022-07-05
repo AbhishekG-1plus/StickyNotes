@@ -8,8 +8,7 @@ Preview of the site with basic functionality to add, delete and search notes:
 
 
 # To run the code locally
-
-
+Just copy paste these commands in your terminal, voila the site is up and running on your localhost !
 ```
 git clone https://github.com/AbhishekG-1plus/StickyNotes.git
 cd StickyNotes
