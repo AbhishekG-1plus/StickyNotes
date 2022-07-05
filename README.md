@@ -11,8 +11,8 @@ Preview of the site with basic functionality to add, delete and search notes:
 
 
 ```
-git clone 
-cd sticky-notes
+git clone https://github.com/AbhishekG-1plus/StickyNotes.git
+cd StickyNotes
 npm install
 npm start
 ```
